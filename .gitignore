@@ -1,0 +1,42 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+
+# Archivos específicos de IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos de Jupyter notebooks
+.ipynb_checkpoints/
+
+# Modelos entrenados y pesados
+*.h5
+*.tflite
+*.onnx
+
+# Archivos de logs
+*.log
+
+# Archivos temporales generados por editores de texto
+*.bak
+*.swp
+
+# Resultados generados durante el entrenamiento (modelos, checkpoints, etc.)
+results/
+
+# Archivos de salida de TensorFlow
+tensorflow_log/
+
+# Carpetas de datos grandes
+data/raw/
+data/processed/
+
+# Archivos temporales
+*.tmp
+*.swp
