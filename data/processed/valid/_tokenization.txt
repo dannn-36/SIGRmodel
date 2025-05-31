@@ -1,0 +1,12 @@
+An example picture from the solidwasteClass dataset depicting a carboard
+An example picture from the solidwasteClass dataset depicting a carboard, and a plastic
+An example picture from the solidwasteClass dataset depicting a carboard, and plastics
+An example picture from the solidwasteClass dataset depicting carboards
+An example picture from the solidwasteClass dataset depicting no plastics
+An example picture from the solidwasteClass dataset depicting a glass
+An example picture from the solidwasteClass dataset depicting a glass, and a metal
+An example picture from the solidwasteClass dataset depicting a metal
+An example picture from the solidwasteClass dataset depicting a metal, and a plastic
+An example picture from the solidwasteClass dataset depicting metals
+An example picture from the solidwasteClass dataset depicting a plastic
+An example picture from the solidwasteClass dataset depicting plastics
