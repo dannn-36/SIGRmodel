@@ -34,8 +34,8 @@ results/
 tensorflow_log/
 
 # Carpetas de datos grandes
-data/raw/
-data/processed/
+# data/raw/
+# data/processed/
 
 # Archivos temporales
 *.tmp
